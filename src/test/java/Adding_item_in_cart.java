@@ -16,6 +16,11 @@ public class Adding_item_in_cart {
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+        System.out.println("Hello Brother");
+        System.out.println("Hello Brother");
+        System.out.println("Hello Brother");
+        System.out.println("Hello Brother");
+        System.out.println("Hello Brother");
 
 
 

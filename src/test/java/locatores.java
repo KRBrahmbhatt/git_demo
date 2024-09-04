@@ -37,6 +37,7 @@ public class locatores {
         System.out.println(driver.findElement(By.tagName("p")).getText());
         driver.findElement(By.xpath("//button[text()=\"Log Out\"]")).click();
         driver.close();
+        System.out.println("hello brother");
 
 
 
