@@ -7,7 +7,7 @@ public class Locator_3 {
         WebDriver driver = new ChromeDriver();
         driver.get("https://rahulshettyacademy.com/AutomationPractice/");
         System.out.println(driver.findElement(By.xpath("//header/div/button[1]/following-sibling::button[1]")).getText());
-
+        System.out.println("hello brother");
 
     }
 }
